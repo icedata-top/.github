@@ -66,7 +66,7 @@
 - **功能**：基于自然语言的智能数据查询系统
 - **技术栈**：
   - 后端：Java + Spring Boot
-  - AI 引擎：Dify + GPT-4 工作流
+  - AI 引擎：Dify + Qwen turbo 工作流
 
 ### 统计月报（停止维护状态）
 
